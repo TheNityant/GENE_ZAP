@@ -1,7 +1,15 @@
 # 🧬 GeneZap: Integrated AMR Pipeline
 
 Welcome to **GeneZap**, a next-generation, fully offline clinical decision support tool for rapid bacterial pathogen identification and antimicrobial resistance (AMR) profiling. It processes raw genetic sequencer files (FASTA/FNA) to deliver actionable, high-confidence recommendations for clinicians, while ensuring patient data never leaves the local environment.
+## 🎥 Demo
 
+<p align="center">
+  <img
+    src="GIF/Gene_Zap_README_demo_ultra.gif"
+    width="100%"
+    alt="Gene Zap genomic analysis demo"
+  />
+</p>
 ## 🚀 Quick Overview
 
 GeneZap combines four specialized AI engines for robust, multi-modal analysis:
